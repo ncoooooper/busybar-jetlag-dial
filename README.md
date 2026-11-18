@@ -4,6 +4,20 @@ Convert every hour between two cities on a selected date, including daylight sav
 
 Check both cities on the date of the call. If one city has switched daylight saving time and the other has not, the bar uses the dates from the host’s time-zone database instead of assuming a fixed difference.
 
+## Screen transitions
+
+Compare two meeting hours and watch the day change with the selected time.
+
+![Jetlag Dial front display. Compare two meeting hours and watch the day change with the selected time.](media/guide/screen-transitions.gif)
+
+<details>
+
+<summary>Watch the rear display</summary>
+
+![Jetlag Dial rear display during the recorded controls](media/guide/screen-transitions-rear.gif)
+
+</details>
+
 ## Compare two meeting hours
 
 1. Set the source and destination IANA zone names, date and starting hour. Open the app with the companion running.
@@ -42,6 +56,6 @@ Open BUSY Bar Emulator. From this repository, run:
 
 Press **Back** to exit.
 
-The GIFs are excerpts from the emulator recording. Each front-display pixel is shown at 9× its original width and height. The end frames pause for reading.
+The GIFs are excerpts from the emulator recording. Each LED occupies a 16 × 16 cell with a black border. The end frames pause for reading.
 
 [Full recording](media/controls.mp4) · [Rear display](screenshots/back-1.png) · [Firmware test](EMULATOR-QA.md) · [MIT license](LICENSE)

@@ -1,0 +1,47 @@
+{
+  "app": "busybar-jetlag-dial",
+  "sha256": "59f8a440a83431e465878ce4825d063714dbc73009238bb2cac934a7a9641d4e",
+  "firmware": "1.3.1",
+  "cell": 16,
+  "lit": 14,
+  "front": [
+    72,
+    16
+  ],
+  "rear": [
+    160,
+    80
+  ],
+  "captures": [
+    {
+      "mode": "classic",
+      "guides": [
+        "compare-neighboring-hours",
+        "return-to-meeting-hour"
+      ],
+      "tour": "screen-transitions",
+      "input": [
+        [
+          "up"
+        ],
+        [
+          "down",
+          "ok"
+        ],
+        [
+          "down",
+          "up",
+          "ok"
+        ]
+      ],
+      "distinct_frames": [
+        10,
+        7,
+        28
+      ],
+      "rear_frames": 23,
+      "rear_tour": "screen-transitions-rear",
+      "exit": "finished"
+    }
+  ]
+}

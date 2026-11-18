@@ -1,7 +1,7 @@
 {
   "name": "busybar-jetlag-dial",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Convert every hour between two cities on a selected date, including daylight saving changes.",
   "author": "ncoooooper",
   "type": "module",
