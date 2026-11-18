@@ -10,7 +10,7 @@
   "frames": 54,
   "distinct_frames": 13,
   "exit": "App io.ncoooooper.jetlagdial exited: finished; heap peak 88.2 of 128 KiB",
-  "sha256": "a576a7d012289e2e8d9046210c79a585692a232e97cbda93d86496a1639c4f4d",
+  "sha256": "b7d71d2cd41a63e69ed9182d97d30f0e4dd4bc24916ece5b3d1e0bdc05b34bf2",
   "pages": [
     {
       "caption": "09:00 EST",
@@ -252,9 +252,9 @@
     ],
     "frames": 128,
     "distinct_by_flow": [
-      7,
-      11
+      2,
+      2
     ],
-    "exit": "App io.btype.jetlagdial exited: finished; heap peak 88.9 of 128 KiB"
+    "exit": "App io.btype.jetlagdial exited: finished; heap peak 87.2 of 128 KiB"
   }
 }

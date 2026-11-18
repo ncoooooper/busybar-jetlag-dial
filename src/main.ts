@@ -5,10 +5,6 @@ instrument({
   "primary": "Jetlag Dial",
   "accent": "#C0A3E8",
   "cadence": 30000,
-  "motion": {
-    "motif": "stations",
-    "color": "#C0A3E8",
-    "shine": "#FFF2D6"
-  },
+  "motion": {enabled:false},
   "setup": "Start companion/serve.py"
 });
