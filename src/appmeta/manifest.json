@@ -4,6 +4,6 @@
   "name": "Jetlag Dial",
   "version": "0.1.0",
   "api_version": "27.12.0",
-  "description": "Jetlag Dial",
+  "description": "Convert every hour between two cities on a selected date, including daylight saving changes.",
   "author": "ncoooooper"
 }

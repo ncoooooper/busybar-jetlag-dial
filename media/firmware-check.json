@@ -1,0 +1,241 @@
+{
+  "id": "BB-060",
+  "source": "IANA timezone database on the host.",
+  "scenario": "09:00 Toronto converted to 16:00 Kyiv on 18 November 2026.",
+  "keys": [
+    "up",
+    "down",
+    "ok"
+  ],
+  "frames": 54,
+  "distinct_frames": 13,
+  "exit": "App io.ncoooooper.jetlagdial exited: finished; heap peak 88.2 of 128 KiB",
+  "sha256": "7d9d4f4e771fda8c1d311548a77269ac0451809c308ad3ff588fb85d003b42eb",
+  "pages": [
+    {
+      "caption": "09:00 EST",
+      "value": "16:00",
+      "lines": [
+        "2026-11-18 EET",
+        "Europe/Kyiv",
+        "Same day"
+      ]
+    },
+    {
+      "caption": "10:00 EST",
+      "value": "17:00",
+      "lines": [
+        "2026-11-18 EET",
+        "Europe/Kyiv",
+        "Same day"
+      ]
+    },
+    {
+      "caption": "11:00 EST",
+      "value": "18:00",
+      "lines": [
+        "2026-11-18 EET",
+        "Europe/Kyiv",
+        "Same day"
+      ]
+    },
+    {
+      "caption": "12:00 EST",
+      "value": "19:00",
+      "lines": [
+        "2026-11-18 EET",
+        "Europe/Kyiv",
+        "Same day"
+      ]
+    },
+    {
+      "caption": "13:00 EST",
+      "value": "20:00",
+      "lines": [
+        "2026-11-18 EET",
+        "Europe/Kyiv",
+        "Same day"
+      ]
+    },
+    {
+      "caption": "14:00 EST",
+      "value": "21:00",
+      "lines": [
+        "2026-11-18 EET",
+        "Europe/Kyiv",
+        "Same day"
+      ]
+    },
+    {
+      "caption": "15:00 EST",
+      "value": "22:00",
+      "lines": [
+        "2026-11-18 EET",
+        "Europe/Kyiv",
+        "Same day"
+      ]
+    },
+    {
+      "caption": "16:00 EST",
+      "value": "23:00",
+      "lines": [
+        "2026-11-18 EET",
+        "Europe/Kyiv",
+        "Same day"
+      ]
+    },
+    {
+      "caption": "17:00 EST",
+      "value": "00:00",
+      "lines": [
+        "2026-11-19 EET",
+        "Europe/Kyiv",
+        "Day +1"
+      ]
+    },
+    {
+      "caption": "18:00 EST",
+      "value": "01:00",
+      "lines": [
+        "2026-11-19 EET",
+        "Europe/Kyiv",
+        "Day +1"
+      ]
+    },
+    {
+      "caption": "19:00 EST",
+      "value": "02:00",
+      "lines": [
+        "2026-11-19 EET",
+        "Europe/Kyiv",
+        "Day +1"
+      ]
+    },
+    {
+      "caption": "20:00 EST",
+      "value": "03:00",
+      "lines": [
+        "2026-11-19 EET",
+        "Europe/Kyiv",
+        "Day +1"
+      ]
+    },
+    {
+      "caption": "21:00 EST",
+      "value": "04:00",
+      "lines": [
+        "2026-11-19 EET",
+        "Europe/Kyiv",
+        "Day +1"
+      ]
+    },
+    {
+      "caption": "22:00 EST",
+      "value": "05:00",
+      "lines": [
+        "2026-11-19 EET",
+        "Europe/Kyiv",
+        "Day +1"
+      ]
+    },
+    {
+      "caption": "23:00 EST",
+      "value": "06:00",
+      "lines": [
+        "2026-11-19 EET",
+        "Europe/Kyiv",
+        "Day +1"
+      ]
+    },
+    {
+      "caption": "00:00 EST",
+      "value": "07:00",
+      "lines": [
+        "2026-11-18 EET",
+        "Europe/Kyiv",
+        "Same day"
+      ]
+    },
+    {
+      "caption": "01:00 EST",
+      "value": "08:00",
+      "lines": [
+        "2026-11-18 EET",
+        "Europe/Kyiv",
+        "Same day"
+      ]
+    },
+    {
+      "caption": "02:00 EST",
+      "value": "09:00",
+      "lines": [
+        "2026-11-18 EET",
+        "Europe/Kyiv",
+        "Same day"
+      ]
+    },
+    {
+      "caption": "03:00 EST",
+      "value": "10:00",
+      "lines": [
+        "2026-11-18 EET",
+        "Europe/Kyiv",
+        "Same day"
+      ]
+    },
+    {
+      "caption": "04:00 EST",
+      "value": "11:00",
+      "lines": [
+        "2026-11-18 EET",
+        "Europe/Kyiv",
+        "Same day"
+      ]
+    },
+    {
+      "caption": "05:00 EST",
+      "value": "12:00",
+      "lines": [
+        "2026-11-18 EET",
+        "Europe/Kyiv",
+        "Same day"
+      ]
+    },
+    {
+      "caption": "06:00 EST",
+      "value": "13:00",
+      "lines": [
+        "2026-11-18 EET",
+        "Europe/Kyiv",
+        "Same day"
+      ]
+    },
+    {
+      "caption": "07:00 EST",
+      "value": "14:00",
+      "lines": [
+        "2026-11-18 EET",
+        "Europe/Kyiv",
+        "Same day"
+      ]
+    },
+    {
+      "caption": "08:00 EST",
+      "value": "15:00",
+      "lines": [
+        "2026-11-18 EET",
+        "Europe/Kyiv",
+        "Same day"
+      ]
+    }
+  ],
+  "initial": {
+    "caption": "09:00 EST",
+    "value": "16:00",
+    "lines": [
+      "2026-11-18 EET",
+      "Europe/Kyiv",
+      "Same day"
+    ]
+  }
+}
