@@ -22,7 +22,7 @@ Check both cities on the date of the call. If one city has switched daylight sav
 
 ## Example from the emulator
 
-The recording uses 18 November 2026. On that date 09:00 in Toronto corresponds to 16:00 in Kyiv. An empty date setting uses the current date in the source zone. The rear also indicates when the destination is on another calendar day. IANA timezone database on the host.
+The recording uses 18 November 2026. On that date 09:00 in Toronto corresponds to 16:00 in Kyiv. An empty date setting uses the current date in the source zone. The rear also indicates when the destination is on another calendar day. The conversion used the host’s IANA time-zone database.
 
 ## Set up the source
 
